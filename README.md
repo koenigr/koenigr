@@ -25,12 +25,13 @@ If there's a black box, I'll probably try to open it.
 
 **Debugging:** GDB, OpenOCD, ST-Link/SWD/JTAG, HardFault analysis, Wireshark
 
-**Build, test & tooling:** CMake, Make, arm-none-eabi-gcc, GoogleTest (unit tests), GitHub Actions (CI), Docker, Ansible, Git, Linux
+**Build, test & tooling:** CMake, Make, arm-none-eabi-gcc, GoogleTest (unit tests), cppcheck, GitHub Actions (CI), Docker, Ansible, Git, Linux
 
 **Working style:** English documentation, writing requirements and docs
 
 ## Currently learning
 - Embedded C in depth, RTOS concepts (Zephyr / FreeRTOS)
+- MISRA C (static analysis with cppcheck)
 - IoT protocols: MQTT first, then Modbus and CoAP
 - Timers, UART/SPI/I²C, DMA
 
