@@ -14,20 +14,22 @@ If there's a black box, I'll probably try to open it.
 
 ## Skills
 
-**Languages:** C, C++, Python, ARM Assembly (basics), Bash
+**Languages:** C, C++, Python, Bash, ARM Assembly (basics)
 
-**Embedded**
+**Embedded Systems**
 - ARM Cortex-M, STM32F407: bare-metal, register-level programming
 - Startup code, linker scripts, vector table, memory layout (Flash/SRAM/stack/heap)
-- GPIO, external interrupts (EXTI/NVIC), interrupt-driven design
+- GPIO, EXTI/NVIC, interrupt-driven design
 - ESP32, Raspberry Pi (Linux)
-- Reading datasheets, reference manuals and schematics; electronics basics, soldering
+- Datasheets, reference manuals, schematics; electronics basics and soldering
 
-**Debugging:** GDB, OpenOCD, ST-Link/SWD/JTAG, HardFault analysis, Wireshark
+**Debugging:** GDB, OpenOCD, ST-Link/SWD, SWO tracing, HardFault analysis, Wireshark
 
-**Build, test & tooling:** CMake, Make, arm-none-eabi-gcc, GoogleTest (unit tests), cppcheck, GitHub Actions (CI), Docker, Ansible, Git, Linux
+**Build, Testing & CI:** CMake, Make, arm-none-eabi-gcc, GoogleTest, Cppcheck (MISRA-oriented checks), clang-tidy, GitHub Actions, Git, Linux
 
-**Working style:** English documentation, writing requirements and docs
+**Additional Tools:** Docker, Ansible
+
+**Documentation:** Technical documentation in English, requirements and project documentation
 
 ## Currently learning
 - Embedded C in depth, RTOS concepts (Zephyr / FreeRTOS)
