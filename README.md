@@ -23,9 +23,13 @@ If there's a black box, I'll probably try to open it.
 - ESP32, Raspberry Pi (Linux)
 - Datasheets, reference manuals, schematics; electronics basics and soldering
 
-**Debugging:** GDB, OpenOCD, ST-Link/SWD, SWO tracing, HardFault analysis, Wireshark
+**Debugging & Analysis:** GDB, OpenOCD, ST-Link/SWD, SWO tracing, HardFault analysis, Wireshark
 
-**Build, Testing & CI:** CMake, Make, arm-none-eabi-gcc, GoogleTest, Cppcheck (MISRA-oriented checks), clang-tidy, GitHub Actions, Git, Linux
+**Simulation & Emulation:** Renode, QEMU
+
+**Buil & Automation:** CMake, Make, arm-none-eabi-gcc, GitHub Actions, Git, Linux
+
+**Testing & Quality Assurance:** GoogleTest, Unity, Cppcheck (MISRA-oriented check), clang-tidy
 
 **Additional Tools:** Docker, Ansible
 
